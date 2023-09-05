@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emile
 - 👀 I’m interested in CS, Python, Flask
-- 🌱 I’m currently learning Python OOP with CS50p
+- 🌱 I’m currently finishing CS50p
 - 💞️ I’m looking for a learning partner
 - 📫 DM me on X @emile_kh
 
